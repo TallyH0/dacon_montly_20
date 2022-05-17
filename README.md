@@ -11,5 +11,4 @@ Private 7위 [0.8906]
     python inference_convnext.py
     python model_ensemble.py
     
-최종 제출 submission.csv 생성
 
